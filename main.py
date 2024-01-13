@@ -33,7 +33,7 @@ def get_values_at_indices_divisible_by_2_3(lst):
     Get a list of values at positions divisible by 2 or 3.
     This function follows 0 based indexing
     """
-    return [value for idx, value in enumerate(lst) if idx % 2 == 0 or idx % 3 == 0]
+    return [value for idx, value in enumerate(lst) if idx % 2 != 0 and idx % 3 != 0]
 
 def main():
     """
