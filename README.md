@@ -1,7 +1,7 @@
 # lfx-risc-sailingDownstream
 
-### Que 1
-# problem statement 2
+# Que 1
+### problem statement 2
 
 Write a Javascript, Python, or OCaml program that:
 -accepts a list of integers
